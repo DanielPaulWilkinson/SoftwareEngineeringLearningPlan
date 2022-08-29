@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": ".NET CORE",
+    "description": ".NET Core is a new version of .NET Framework, which is a free, open-source, general-purpose development platform maintained by Microsoft. It is a cross-platform framework that runs on Windows, macOS, and Linux operating systems.",
+    "image": "dot-net-core.jpg",
+    "IQ": 0,
+    "tags": [
+      {
+        "name": ".NET"
+      },
+      {
+        "name": "API"
+      }
+    ],
+    "Competencies": [
+      {
+        "name": "Web API's",
+        "description": "RESTful HTTP services",
+        "sources": "https://docs.Microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore&tabs=visual-studio"
+      },
+      {
+        "name": "Web UI's",
+        "description": "RESTful HTTP services",
+        "tutorial": "https://docs.Microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore&tabs=visual-studio"
+      },
+      {
+        "name": "Razor",
+        "tutorial": "RESTful HTTP services",
+        "sources": "https://docs.Microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore&tabs=visual-studio"
+      },
+      {
+        "name": "Blazor",
+        "description": "RESTful HTTP services",
+        "sources": "https://docs.Microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore&tabs=visual-studio"
+      }
+    ],
+    "LearningCurve": {
+      "StudyTimes": [
+        {
+          "id": 1,
+          "ProjectedDate": "",
+          "Studied": false
+        },
+        {
+          "id": 2,
+          "ProjectedDate": "",
+          "Studied": false
+        },
+        {
+          "id": 3,
+          "ProjectedDate": "",
+          "Studied": false
+        },
+        {
+          "id": 4,
+          "ProjectedDate": "",
+          "Studied": false
+        },
+        {
+          "id": 5,
+          "ProjectedDate": "",
+          "Studied": false
+        }
+      ]
+    }
+  }
+]
